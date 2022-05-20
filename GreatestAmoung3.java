@@ -1,4 +1,8 @@
 package Submitted;
+/*
+Question 1: Take three input from the user and print the greatest number .
+
+*/
 import java.util.*;
 public class GreatestAmoung3 {
     public static void main(String[] args) {

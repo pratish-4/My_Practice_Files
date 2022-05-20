@@ -1,5 +1,7 @@
 package Submitted;
 import java.util.*;
+/**Write a program to check whether a number or string is palindrome or not.
+ */
 public class Palindrome {
 
     public static void main(String[] args) {

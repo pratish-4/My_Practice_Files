@@ -1,6 +1,15 @@
 package Submitted;
 /**
  * MidChar
+ * Write a Java method to display the middle character of a string. 
+
+Note:
+
+a) If the length of the string is odd there will be one middle character.
+
+b) If the length of the string is even there will be two middle characters.
+
+
  */
 import java.util.*;
 public class MidChar {
