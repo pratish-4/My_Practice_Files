@@ -20,12 +20,10 @@ class Sub_class extends Abs{
         System.out.println("This is an abstract method");
     }
 }
-
 public class Inheritance02 {
     public static void main(String[] args) {
     Sub_class s1obj = new Sub_class();
     s1obj.a_method();
     s1obj.normal();
-    }
-    
+    }  
 }
