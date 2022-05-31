@@ -21,7 +21,7 @@ class Manager extends  Employee{
 }
 class Supervisor extends Manager{
     Supervisor (String name,int age,String dept){
-        super(name,age);
+        super(name,age);k
     }
     public void call(){
         System.out.println("I am a Supervisor"+"My name is :"+name);

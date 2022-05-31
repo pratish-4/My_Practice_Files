@@ -1,4 +1,4 @@
-package Submitted;
+ 
 /*
 Question 1: Take three input from the user and print the greatest number .
 

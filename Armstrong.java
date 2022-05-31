@@ -1,4 +1,4 @@
-package Submitted;
+ 
 /**
  * Armstrong
  * Write a program to check whether a number or string is palindrome or not.
