@@ -59,6 +59,9 @@ public class LLqueue {
         LL01.pushForLLqueue(28);
         LL01.pushForLLqueue(64);
         LL01.printForLLqueue();
+        System.out.println("Just pop 1");
+        LL01.popForLLqueue();
+        LL01.printForLLqueue();
     }
     
 }
